@@ -1,0 +1,38 @@
+{
+  "name": "notion-ast-compiler",
+  "version": "0.0.1",
+  "private": false,
+  "type": "module",
+  "license": "MIT",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    }
+  },
+  "files": ["dist"],
+  "scripts": {
+    "dev": "tsc -w",
+    "build": "tsup",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "lint": "eslint .",
+    "format": "prettier -w .",
+    "check": "pnpm lint && pnpm test && pnpm build"
+  },
+  "dependencies": {
+    "@notionhq/client": "^2.2.15"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "eslint": "^9.9.0",
+    "prettier": "^3.3.3",
+    "tsup": "^8.2.4",
+    "typescript": "^5.5.4",
+    "vitest": "^2.0.5"
+  }
+}
