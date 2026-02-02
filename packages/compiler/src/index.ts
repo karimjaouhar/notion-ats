@@ -15,10 +15,12 @@ export { compilePageMeta } from "./notion/meta.js";
 export type {
   Article,
   ArticleNode,
-  ArticleMeta
+  ArticleMeta,
+  AdmonitionNode
 } from "./ast/types.js";
 
 // ─────────────────────────────────────────────────────────
 // Text utilities (safe helpers)
 // ─────────────────────────────────────────────────────────
 export { toPlainText } from "./ast/text.js";
+export type { RichTextSpan } from "./ast/text.js";

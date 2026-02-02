@@ -1,18 +1,18 @@
-# React Renderer Spec (AST → React)
+# React Renderer Spec (AST -> React)
 
 ## Input Types
 
-This package consumes:
+This package consumes these public exports from `@notion-ats/compiler`:
 
 - `Article`
 - `ArticleNode`
 - `RichTextSpan`
 
-from `@notion-ast/compiler` public exports.
+The renderer must not depend on Notion SDK types or block JSON.
 
 ## Output
 
-The renderer produces React elements that correspond to semantic HTML.
+The renderer produces React elements that correspond to semantic HTML and remain unstyled by default.
 
 ## Node Rendering Rules
 
@@ -24,155 +24,134 @@ AST: `{ type: "heading", level, id, text }`
 Default render:
 ```html
 <h{level} id="{id}">...</h{level}>
-paragraph
+```
 
-AST: { type: "paragraph", text }
-Default:
-
+### paragraph
+AST: `{ type: "paragraph", text }`
+Default render:
+```html
 <p>...</p>
+```
 
-list
+### list
+AST: `{ type: "list", ordered, items }`
+Default render:
+- `ordered = false` -> `<ul>`
+- `ordered = true` -> `<ol>`
+- `items` -> `<li>` containing rendered children
 
-AST: { type: "list", ordered, items }
-Default:
-
-ordered=false → <ul>
-
-ordered=true → <ol>
-
-items → <li> containing child nodes
-
-code
-
-AST: { type: "code", language, code, caption? }
-Default:
-
+### code
+AST: `{ type: "code", language, code, caption? }`
+Default render:
+```html
 <figure>
   <pre><code class="language-{language}">...</code></pre>
   <figcaption>...</figcaption> (optional)
 </figure>
+```
 
-image
-
-AST: { type: "image", src, caption? }
-Default:
-
+### image
+AST: `{ type: "image", src, alt?, caption? }`
+Default render:
+```html
 <figure>
   <img src="..." alt="..." />
   <figcaption>...</figcaption> (optional)
 </figure>
+```
 
+Alt text defaults to `alt` when provided, otherwise caption plain text, otherwise empty string.
 
-Alt text default can be derived from caption plain text or empty string.
-
-quote
-
-AST: { type: "quote", children }
-Default:
-
+### quote
+AST: `{ type: "quote", children }`
+Default render:
+```html
 <blockquote>...</blockquote>
+```
 
-divider
-
-AST: { type: "divider" }
-Default:
-
+### divider
+AST: `{ type: "divider" }`
+Default render:
+```html
 <hr />
+```
 
-toggle
-
-AST: { type: "toggle", summary, children }
-Default:
-
+### toggle
+AST: `{ type: "toggle", summary, children }`
+Default render:
+```html
 <details>
   <summary>...</summary>
   ...children...
 </details>
+```
 
-admonition
-
-AST: { type: "admonition", kind, title?, children }
-Default:
-
+### admonition
+AST: `{ type: "admonition", kind, title?, children }`
+Default render:
+```html
 <aside data-kind="{kind}">
   <strong>...</strong> (optional title)
   ...children...
 </aside>
+```
 
-table
+### table
+AST: `{ type: "table", hasHeader, rows }`
+Default render:
+- `hasHeader = true` -> first row in `<thead>` with `<th>`
+- remaining rows in `<tbody>` with `<td>`
+- `hasHeader = false` -> all rows in `<tbody>`
 
-AST: { type: "table", hasHeader, rows }
-Default:
-
-if hasHeader:
-
-first row → <thead> with <th>
-
-remaining rows → <tbody> with <td>
-
-else:
-
-all rows → <tbody> with <td>
-
-embed
-
-AST: { type: "embed", url, caption? }
-Default:
-
+### embed
+AST: `{ type: "embed", url, caption? }`
+Default render:
+```html
 <figure>
   <a href="{url}" rel="noreferrer noopener" target="_blank">{url}</a>
   <figcaption>...</figcaption> (optional)
 </figure>
+```
 
-bookmark
-
-AST: { type: "bookmark", url, title?, description? }
-Default:
-
+### bookmark
+AST: `{ type: "bookmark", url, title?, description? }`
+Default render:
+```html
 <div>
   <a href="{url}" rel="noreferrer noopener" target="_blank">{title || url}</a>
   <p>{description}</p> (optional)
 </div>
+```
 
-Rich Text Rendering Rules
+## Rich Text Rendering Rules
 
-RichTextSpan types map to nested inline elements:
+`RichTextSpan` types map to nested inline elements:
 
-text → string
-
-bold → <strong>{children}</strong>
-
-italic → <em>{children}</em>
-
-code → <code>{text}</code> (inline)
-
-link → <a href="...">children</a>
+- `text` -> string
+- `bold` -> `<strong>{children}</strong>`
+- `italic` -> `<em>{children}</em>`
+- `code` -> `<code>{text}</code>` (inline)
+- `link` -> `<a href="...">{children}</a>`
 
 Do not add styling by default.
 
-Custom Components
+## Custom Components
 
 Users may override rendering per node type via a components map.
 
 The library must:
 
-provide defaults for all node types
+- Provide defaults for all node types.
+- Call user overrides when provided.
+- Keep override props stable and minimal.
+- Pass children already rendered.
 
-call user overrides when provided
-
-keep override props stable and minimal
-
-
----
-
-# 2) Minimal public API proposal for `@notion-ast/react`
-
-Keep it small and “obvious”:
+## Public API
 
 ### Primary API
 - `ArticleRenderer` — convenience component
 
-### Functional API (power users)
+### Functional API
 - `renderArticle(article, options?)`
 - `renderNode(node, options?)`
 - `renderRichText(spans, options?)`
@@ -181,22 +160,28 @@ Keep it small and “obvious”:
 - `RendererComponents`
 - `RenderOptions`
 
-Example consumer usage:
+Example usage:
 
 ```tsx
-import { ArticleRenderer } from "@notion-ast/react";
+import { ArticleRenderer } from "@notion-ats/react";
 
-<ArticleRenderer article={article} />
-
+<ArticleRenderer article={article} />;
+```
 
 Customized:
 
-import { ArticleRenderer } from "@notion-ast/react";
+```tsx
+import { ArticleRenderer } from "@notion-ats/react";
 
 <ArticleRenderer
   article={article}
   components={{
-    heading: ({ level, id, children }) => <MyHeading as={`h${level}`} id={id}>{children}</MyHeading>,
+    heading: ({ level, id, children }) => (
+      <MyHeading as={`h${level}`} id={id}>
+        {children}
+      </MyHeading>
+    ),
     code: ({ language, code }) => <MyCode lang={language} code={code} />
   }}
-/>
+/>;
+```
