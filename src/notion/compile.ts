@@ -74,8 +74,26 @@ function compileBlocks(
       continue;
     }
 
-    if (b.type === "heading_1" || b.type === "heading_2" || b.type === "heading_3") {
-      const level = b.type === "heading_1" ? 1 : b.type === "heading_2" ? 2 : 3;
+    if (
+      b.type === "heading_1" ||
+      b.type === "heading_2" ||
+      b.type === "heading_3" ||
+      b.type === "heading_4" ||
+      b.type === "heading_5" ||
+      b.type === "heading_6"
+    ) {
+      const level =
+        b.type === "heading_1"
+          ? 1
+          : b.type === "heading_2"
+            ? 2
+            : b.type === "heading_3"
+              ? 3
+              : b.type === "heading_4"
+                ? 4
+                : b.type === "heading_5"
+                  ? 5
+                  : 6;
       const text = notionRichTextToSpans(getRichText(b, b.type));
       const plain = toPlainText(text);
       const baseId = slugify(plain) || "heading";

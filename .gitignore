@@ -3,3 +3,5 @@ dist
 .vscode
 .DS_Store
 .env
+# Local development playground
+playground.ts
