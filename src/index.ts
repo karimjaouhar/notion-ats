@@ -1,6 +1,24 @@
-export * from "./ast/types.js";
-export * from "./ast/text.js";
-export * from "./notion/compile.js";
-export * from "./notion/meta.js";
-export * from "./notion/page.js";
-export * from "./notion/warnings.js";
+// ─────────────────────────────────────────────────────────
+// Primary API (recommended entry point)
+// ─────────────────────────────────────────────────────────
+export { compileNotionPage } from "./notion/page.js";
+
+// ─────────────────────────────────────────────────────────
+// Advanced APIs (power users only; not the golden path)
+// ─────────────────────────────────────────────────────────
+export { compileBlocksToArticle } from "./notion/compile.js";
+export { compilePageMeta } from "./notion/meta.js";
+
+// ─────────────────────────────────────────────────────────
+// Public domain types (stable contract)
+// ─────────────────────────────────────────────────────────
+export type {
+  Article,
+  ArticleNode,
+  ArticleMeta
+} from "./ast/types.js";
+
+// ─────────────────────────────────────────────────────────
+// Text utilities (safe helpers)
+// ─────────────────────────────────────────────────────────
+export { toPlainText } from "./ast/text.js";

@@ -10,3 +10,10 @@ Notion is a great editor but a poor frontend. This project converts Notion conte
 import { compileBlocksToArticle } from "notion-ast-compiler";
 
 const article = compileBlocksToArticle(blocks, { meta: { title: "My Post" } });
+
+## Public API
+
+### compileNotionPage (recommended)
+
+```ts
+import { compileNotionPage } from "notion-ast-compiler";
