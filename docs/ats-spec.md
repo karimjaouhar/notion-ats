@@ -33,3 +33,28 @@ Spans can nest (bold contains children).
 - `heading.id` must be stable and URL-safe.
 - `list.items[].children` is a Node[] (so list items can contain nested lists, etc.)
 - `paragraph.text` must not be empty (compiler may drop empty paragraphs).
+
+## Frozen invariants (v1)
+These are guaranteed by the compiler and must remain stable.
+
+### Common
+- Output is deterministic for the same input.
+- Node ordering is preserved from the source block order.
+
+### Text
+- `RichTextSpan[]` preserves text order.
+- `toPlainText` is a pure projection of spans.
+
+### Nodes
+- `heading`: `level` in 1..6, `id` non-empty and URL-safe.
+- `paragraph`: `text` non-empty (empty/whitespace paragraphs are dropped).
+- `code`: `language` and `code` are strings; `caption` is optional.
+- `image`: `src` is non-empty; `caption` is optional.
+- `table`: `rows` preserve row order; `cells` preserve cell order.
+- `embed`: `url` is non-empty; `caption` is optional.
+- `bookmark`: `url` is non-empty; `title`/`description` are optional.
+- `list`: `items[].children` is a Node[] and preserves order.
+- `admonition`: `kind` in `note|tip|warning|info`; `title` optional.
+- `quote`: `children` is a Node[] and preserves order.
+- `divider`: no additional fields.
+- `toggle`: `summary` non-empty; `children` preserves order.

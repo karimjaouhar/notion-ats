@@ -10,10 +10,35 @@ Notion is a great editor but a poor frontend. This project converts Notion conte
 import { compileBlocksToArticle } from "notion-ast-compiler";
 
 const article = compileBlocksToArticle(blocks, { meta: { title: "My Post" } });
+```
 
 ## Public API
 
-### compileNotionPage (recommended)
+The only supported public contract is what is exported from `src/index.ts`.
 
-```ts
-import { compileNotionPage } from "notion-ast-compiler";
+Primary (recommended):
+- `compileNotionPage`
+
+Advanced (power users):
+- `compileBlocksToArticle`
+- `compilePageMeta`
+
+Public domain types:
+- `Article`, `ArticleNode`, `ArticleMeta`
+
+Safe helpers:
+- `toPlainText`
+
+## Versioning rules (v1+)
+
+Breaking changes (major):
+- Any change to the shape or semantics of `Article`, `ArticleNode`, or `ArticleMeta`.
+- Any change to required fields or invariants in the AST spec.
+- Any change to output for supported block types for the same input.
+- Adding new node types or required fields.
+- Removing/renaming public exports.
+
+Non-breaking changes (minor/patch):
+- Bug fixes that preserve AST invariants and public API shape.
+- Adding optional fields that do not change existing output for the same input.
+- Documentation and test-only changes.
