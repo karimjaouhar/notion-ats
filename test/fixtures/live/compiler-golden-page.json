@@ -1,0 +1,4597 @@
+[
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-80b4-8435-ec402de33cae",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:31:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The Ultimate Guide to Understanding Your Cat",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The Ultimate Guide to Understanding Your Cat",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-80d5-9e27-f16885527181",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Cats have been mysterious companions to humans for thousands of years. Despite their popularity as pets, many cat owners still struggle to understand their feline friends' complex behaviors and needs.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Cats have been mysterious companions to humans for thousands of years. Despite their popularity as pets, many cat owners still struggle to understand their feline friends' complex behaviors and needs.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8012-902d-fccf8ef33820",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Why Cats Are the Perfect Pet",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Why Cats Are the Perfect Pet",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-80aa-82a3-dc97266f09a0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Bold claim:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Bold claim:",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " Cats are objectively superior to all other pets. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " Cats are objectively superior to all other pets. ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "This is a scientific fact",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "This is a scientific fact",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " (not really). If you want to learn more about pet care, check out ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " (not really). If you want to learn more about pet care, check out ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "this helpful resource",
+            "link": {
+              "url": "https://example.com/cat-care"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "this helpful resource",
+          "href": "https://example.com/cat-care"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ".",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ".",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-800c-a59d-c15f12993fad",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Here's a simple code snippet to calculate your cat's ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Here's a simple code snippet to calculate your cat's ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "cuteness_factor",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "cuteness_factor",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ":",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ":",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8005-bb84-f09151dc7e45",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "code",
+    "code": {
+      "caption": [],
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "def calculate_cuteness(purr_volume, fluffiness):\n    return (purr_volume * fluffiness) / 9\n    \nmy_cat_score = calculate_cuteness(10, 9.5)\nprint(f\"Cuteness factor: {my_cat_score}\")",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "def calculate_cuteness(purr_volume, fluffiness):\n    return (purr_volume * fluffiness) / 9\n    \nmy_cat_score = calculate_cuteness(10, 9.5)\nprint(f\"Cuteness factor: {my_cat_score}\")",
+          "href": null
+        }
+      ],
+      "language": "python"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8070-8ac7-fc268a8b4118",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [
+        {
+          "type": "text",
+          "text": {
+            "content": "A majestic orange tabby cat sitting regally",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "A majestic orange tabby cat sitting regally",
+          "href": null
+        }
+      ],
+      "type": "external",
+      "external": {
+        "url": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba"
+      }
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-80cb-af27-e7442ce35d24",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "divider",
+    "divider": {}
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8022-b08e-c17e9c402b0f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Understanding Cat Behavior",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Understanding Cat Behavior",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8070-9f7d-f4bf56123c2c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "quote",
+    "quote": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Cats are not our whole life, but they make our lives whole.\n",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Cats are not our whole life, but they make our lives whole.\n",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "— Ancient cat wisdom",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "— Ancient cat wisdom",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8074-a081-d83d7e4188d8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Common Cat Behaviors Explained",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Common Cat Behaviors Explained",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8083-b0ff-def04b87aac0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_4",
+    "heading_4": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Why Do Cats Knock Things Off Tables?",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Why Do Cats Knock Things Off Tables?",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-80a3-865c-c827c98c070b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Scientists have studied this phenomenon extensively. The leading theory is simple: ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Scientists have studied this phenomenon extensively. The leading theory is simple: ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "cats are chaos agents",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "cats are chaos agents",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ".",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ".",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-806e-ab16-f2f6f0c2c01d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Fun Fact:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Fun Fact:",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " Cats spend 70% of their lives sleeping and the other 30% plotting world domination.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " Cats spend 70% of their lives sleeping and the other 30% plotting world domination.",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "🐱"
+      },
+      "color": "blue_background"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8016-b484-c1597d588cf5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_4",
+    "heading_4": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The Mystery of the 3 AM Zoomies",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The Mystery of the 3 AM Zoomies",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-80f3-835d-f9c9c5a5105d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Every cat owner knows the terror of being woken up by their cat sprinting through the house at maximum speed.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Every cat owner knows the terror of being woken up by their cat sprinting through the house at maximum speed.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-801a-b411-d0c075ba07f1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Warning:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Warning:",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " Do not attempt to stop a cat experiencing the zoomies. This is futile and may result in scratches.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " Do not attempt to stop a cat experiencing the zoomies. This is futile and may result in scratches.",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "⚠️"
+      },
+      "color": "yellow_background"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8003-b093-e13665e38cc7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "divider",
+    "divider": {}
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-80f3-a529-f9b4208f0d79",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Essential Cat Care Tips",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Essential Cat Care Tips",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-805d-b51d-c581b9b80b69",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Feeding Your Cat",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Feeding Your Cat",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8082-a87b-fe4b5e4229e5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Choose quality food",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Choose quality food",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " - Look for high protein content",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " - Look for high protein content",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-80fc-9c83-f2b1f929e813",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Maintain a schedule",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Maintain a schedule",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " - Cats thrive on routine",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " - Cats thrive on routine",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-800d-8130-dd19a43ed6d0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": true,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Fresh water always",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Fresh water always",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " - Change it daily",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " - Change it daily",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "children": [
+      {
+        "object": "block",
+        "id": "2fb1eca8-9dfb-80f5-a68e-da9ccf8a991d",
+        "parent": {
+          "type": "block_id",
+          "block_id": "2fb1eca8-9dfb-800d-8130-dd19a43ed6d0"
+        },
+        "created_time": "2026-02-02T01:32:00.000Z",
+        "last_edited_time": "2026-02-02T01:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Use a water fountain if possible",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Use a water fountain if possible",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fb1eca8-9dfb-80f1-8a1a-e85ffc4c05f6",
+        "parent": {
+          "type": "block_id",
+          "block_id": "2fb1eca8-9dfb-800d-8130-dd19a43ed6d0"
+        },
+        "created_time": "2026-02-02T01:32:00.000Z",
+        "last_edited_time": "2026-02-02T01:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "has_children": true,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Cats prefer running water",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Cats prefer running water",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": [
+          {
+            "object": "block",
+            "id": "2fb1eca8-9dfb-8036-9cbe-c781a32e6822",
+            "parent": {
+              "type": "block_id",
+              "block_id": "2fb1eca8-9dfb-80f1-8a1a-e85ffc4c05f6"
+            },
+            "created_time": "2026-02-02T01:32:00.000Z",
+            "last_edited_time": "2026-02-02T01:32:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "bulleted_list_item",
+            "bulleted_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "This is an evolutionary trait",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "This is an evolutionary trait",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          },
+          {
+            "object": "block",
+            "id": "2fb1eca8-9dfb-8012-b1a5-f85635f4e4bd",
+            "parent": {
+              "type": "block_id",
+              "block_id": "2fb1eca8-9dfb-80f1-8a1a-e85ffc4c05f6"
+            },
+            "created_time": "2026-02-02T01:32:00.000Z",
+            "last_edited_time": "2026-02-02T01:32:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "bulleted_list_item",
+            "bulleted_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Wild cats drink from streams",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Wild cats drink from streams",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8050-a616-f715845abf50",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Grooming Requirements",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Grooming Requirements",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8085-b338-f2778a628486",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Brush your cat regularly",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Brush your cat regularly",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-80e0-9e61-cb82a771e1d2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": true,
+    "archived": false,
+    "in_trash": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Trim nails every 2-3 weeks",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Trim nails every 2-3 weeks",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "children": [
+      {
+        "object": "block",
+        "id": "2fb1eca8-9dfb-80c5-b607-d8bae682c630",
+        "parent": {
+          "type": "block_id",
+          "block_id": "2fb1eca8-9dfb-80e0-9e61-cb82a771e1d2"
+        },
+        "created_time": "2026-02-02T01:32:00.000Z",
+        "last_edited_time": "2026-02-02T01:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Use proper cat nail clippers",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Use proper cat nail clippers",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fb1eca8-9dfb-8043-8165-f229d7f20f16",
+        "parent": {
+          "type": "block_id",
+          "block_id": "2fb1eca8-9dfb-80e0-9e61-cb82a771e1d2"
+        },
+        "created_time": "2026-02-02T01:32:00.000Z",
+        "last_edited_time": "2026-02-02T01:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Only trim the clear tip",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Only trim the clear tip",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8056-8e89-c8c822cd6079",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Check ears weekly",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Check ears weekly",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-804f-9d39-dfb07bbde4a6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": true,
+    "archived": false,
+    "in_trash": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Dental care is important",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Dental care is important",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "children": [
+      {
+        "object": "block",
+        "id": "2fb1eca8-9dfb-807f-bf89-e2109fc2dfa9",
+        "parent": {
+          "type": "block_id",
+          "block_id": "2fb1eca8-9dfb-804f-9d39-dfb07bbde4a6"
+        },
+        "created_time": "2026-02-02T01:32:00.000Z",
+        "last_edited_time": "2026-02-02T01:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Brush teeth if possible",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Brush teeth if possible",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fb1eca8-9dfb-805f-8365-cf5b302922db",
+        "parent": {
+          "type": "block_id",
+          "block_id": "2fb1eca8-9dfb-804f-9d39-dfb07bbde4a6"
+        },
+        "created_time": "2026-02-02T01:32:00.000Z",
+        "last_edited_time": "2026-02-02T01:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Provide dental treats",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Provide dental treats",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8087-ad85-e093f40d0ff2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Mixed List Example",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Mixed List Example",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-80da-944b-dbee6eebbcc8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": true,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "General cat supplies needed:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "General cat supplies needed:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "children": [
+      {
+        "object": "block",
+        "id": "2fb1eca8-9dfb-80a2-877a-f6eeda5d23d7",
+        "parent": {
+          "type": "block_id",
+          "block_id": "2fb1eca8-9dfb-80da-944b-dbee6eebbcc8"
+        },
+        "created_time": "2026-02-02T01:32:00.000Z",
+        "last_edited_time": "2026-02-02T01:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "numbered_list_item",
+        "numbered_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Litter box (one per cat, plus one extra)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Litter box (one per cat, plus one extra)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fb1eca8-9dfb-8009-a0b2-e79fa35ecdbd",
+        "parent": {
+          "type": "block_id",
+          "block_id": "2fb1eca8-9dfb-80da-944b-dbee6eebbcc8"
+        },
+        "created_time": "2026-02-02T01:32:00.000Z",
+        "last_edited_time": "2026-02-02T01:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "numbered_list_item",
+        "numbered_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Quality litter",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Quality litter",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fb1eca8-9dfb-8074-9eb8-e6c39a3892b2",
+        "parent": {
+          "type": "block_id",
+          "block_id": "2fb1eca8-9dfb-80da-944b-dbee6eebbcc8"
+        },
+        "created_time": "2026-02-02T01:32:00.000Z",
+        "last_edited_time": "2026-02-02T01:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "numbered_list_item",
+        "numbered_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Food and water bowls",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Food and water bowls",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-80f9-8b18-ef85e5401de3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": true,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Toys and enrichment",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Toys and enrichment",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "children": [
+      {
+        "object": "block",
+        "id": "2fb1eca8-9dfb-8006-8cfe-e311c395bf91",
+        "parent": {
+          "type": "block_id",
+          "block_id": "2fb1eca8-9dfb-80f9-8b18-ef85e5401de3"
+        },
+        "created_time": "2026-02-02T01:32:00.000Z",
+        "last_edited_time": "2026-02-02T01:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "has_children": true,
+        "archived": false,
+        "in_trash": false,
+        "type": "numbered_list_item",
+        "numbered_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Interactive toys",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Interactive toys",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "children": [
+          {
+            "object": "block",
+            "id": "2fb1eca8-9dfb-80b6-8fdd-c7c15fd688e2",
+            "parent": {
+              "type": "block_id",
+              "block_id": "2fb1eca8-9dfb-8006-8cfe-e311c395bf91"
+            },
+            "created_time": "2026-02-02T01:32:00.000Z",
+            "last_edited_time": "2026-02-02T01:32:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "bulleted_list_item",
+            "bulleted_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Feather wands",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Feather wands",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          },
+          {
+            "object": "block",
+            "id": "2fb1eca8-9dfb-8041-9b24-f8b1c1d79e48",
+            "parent": {
+              "type": "block_id",
+              "block_id": "2fb1eca8-9dfb-8006-8cfe-e311c395bf91"
+            },
+            "created_time": "2026-02-02T01:32:00.000Z",
+            "last_edited_time": "2026-02-02T01:32:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "bulleted_list_item",
+            "bulleted_list_item": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Laser pointers",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Laser pointers",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "id": "2fb1eca8-9dfb-80d8-b0fd-c4943373e778",
+        "parent": {
+          "type": "block_id",
+          "block_id": "2fb1eca8-9dfb-80f9-8b18-ef85e5401de3"
+        },
+        "created_time": "2026-02-02T01:32:00.000Z",
+        "last_edited_time": "2026-02-02T01:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "numbered_list_item",
+        "numbered_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Scratching posts",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Scratching posts",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-80f5-947a-eada13cab4a9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": true,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Veterinary care",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Veterinary care",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "children": [
+      {
+        "object": "block",
+        "id": "2fb1eca8-9dfb-803a-8444-dd9e38746c7a",
+        "parent": {
+          "type": "block_id",
+          "block_id": "2fb1eca8-9dfb-80f5-947a-eada13cab4a9"
+        },
+        "created_time": "2026-02-02T01:32:00.000Z",
+        "last_edited_time": "2026-02-02T01:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Annual checkups",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Annual checkups",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fb1eca8-9dfb-8088-b36a-f6f0e41544d4",
+        "parent": {
+          "type": "block_id",
+          "block_id": "2fb1eca8-9dfb-80f5-947a-eada13cab4a9"
+        },
+        "created_time": "2026-02-02T01:32:00.000Z",
+        "last_edited_time": "2026-02-02T01:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Vaccinations",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Vaccinations",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8001-9f72-ed6f93684579",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "divider",
+    "divider": {}
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8038-a599-f05858598e33",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Cat Communication 101",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Cat Communication 101",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8078-b08d-dda9a02ebdac",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": true,
+    "archived": false,
+    "in_trash": false,
+    "type": "toggle",
+    "toggle": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Understanding Meows",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Understanding Meows",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "children": [
+      {
+        "object": "block",
+        "id": "2fb1eca8-9dfb-8048-ad74-fb6159a60561",
+        "parent": {
+          "type": "block_id",
+          "block_id": "2fb1eca8-9dfb-8078-b08d-dda9a02ebdac"
+        },
+        "created_time": "2026-02-02T01:32:00.000Z",
+        "last_edited_time": "2026-02-02T01:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Cats have different meows for different situations. A short meow is a greeting, while a long, drawn-out meow might indicate displeasure or a demand for food.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Cats have different meows for different situations. A short meow is a greeting, while a long, drawn-out meow might indicate displeasure or a demand for food.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fb1eca8-9dfb-8084-b2d7-fbb7e15e9e9c",
+        "parent": {
+          "type": "block_id",
+          "block_id": "2fb1eca8-9dfb-8078-b08d-dda9a02ebdac"
+        },
+        "created_time": "2026-02-02T01:32:00.000Z",
+        "last_edited_time": "2026-02-02T01:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Pro tip:",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Pro tip:",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " Most cat communication is actually non-verbal!",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " Most cat communication is actually non-verbal!",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-80da-a766-dc7394919f73",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": true,
+    "archived": false,
+    "in_trash": false,
+    "type": "toggle",
+    "toggle": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Tail Language",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Tail Language",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "children": [
+      {
+        "object": "block",
+        "id": "2fb1eca8-9dfb-8093-ba79-f3cb67ed3fe3",
+        "parent": {
+          "type": "block_id",
+          "block_id": "2fb1eca8-9dfb-80da-a766-dc7394919f73"
+        },
+        "created_time": "2026-02-02T01:32:00.000Z",
+        "last_edited_time": "2026-02-02T01:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "The position and movement of a cat's tail reveals their emotional state:",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "The position and movement of a cat's tail reveals their emotional state:",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fb1eca8-9dfb-80a2-99c6-e1319cc11817",
+        "parent": {
+          "type": "block_id",
+          "block_id": "2fb1eca8-9dfb-80da-a766-dc7394919f73"
+        },
+        "created_time": "2026-02-02T01:32:00.000Z",
+        "last_edited_time": "2026-02-02T01:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Tail up: Happy and confident",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Tail up: Happy and confident",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fb1eca8-9dfb-80d5-bdba-ea900a697dc2",
+        "parent": {
+          "type": "block_id",
+          "block_id": "2fb1eca8-9dfb-80da-a766-dc7394919f73"
+        },
+        "created_time": "2026-02-02T01:32:00.000Z",
+        "last_edited_time": "2026-02-02T01:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Tail puffed: Scared or agitated",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Tail puffed: Scared or agitated",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fb1eca8-9dfb-803c-8cb5-f3635b1fdc52",
+        "parent": {
+          "type": "block_id",
+          "block_id": "2fb1eca8-9dfb-80da-a766-dc7394919f73"
+        },
+        "created_time": "2026-02-02T01:32:00.000Z",
+        "last_edited_time": "2026-02-02T01:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Tail swishing: Annoyed or focused",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Tail swishing: Annoyed or focused",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-80c3-9c1d-c0d33e604f25",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": true,
+    "archived": false,
+    "in_trash": false,
+    "type": "toggle",
+    "toggle": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Purring Secrets",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Purring Secrets",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "children": [
+      {
+        "object": "block",
+        "id": "2fb1eca8-9dfb-803d-af68-c108e21f5772",
+        "parent": {
+          "type": "block_id",
+          "block_id": "2fb1eca8-9dfb-80c3-9c1d-c0d33e604f25"
+        },
+        "created_time": "2026-02-02T01:32:00.000Z",
+        "last_edited_time": "2026-02-02T01:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Not all purring means contentment. Cats also purr when stressed or in pain as a self-soothing mechanism.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Not all purring means contentment. Cats also purr when stressed or in pain as a self-soothing mechanism.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8089-aa2e-c6a6ffb6bed0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "divider",
+    "divider": {}
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-80b7-ac0b-e261e83af72c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Advanced Cat Topics",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Advanced Cat Topics",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-80c2-9912-ca0def2ea16c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The Science of Cat Naps",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The Science of Cat Naps",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-80d5-9526-c0de347d9938",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Cats are crepuscular creatures, meaning they're most active during dawn and dusk. This explains why your cat seems to sleep all day and becomes hyperactive right when you're trying to sleep.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Cats are crepuscular creatures, meaning they're most active during dawn and dusk. This explains why your cat seems to sleep all day and becomes hyperactive right when you're trying to sleep.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8050-9a86-f0a652ec9a11",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "code",
+    "code": {
+      "caption": [],
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "const catSchedule = {\n  '6am': 'ZOOMIES',\n  '8am': 'Nap',\n  '12pm': 'Nap',\n  '3pm': 'Stare out window',\n  '6pm': 'Demand dinner',\n  '9pm': 'Nap',\n  '3am': 'ZOOMIES'\n};",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "const catSchedule = {\n  '6am': 'ZOOMIES',\n  '8am': 'Nap',\n  '12pm': 'Nap',\n  '3pm': 'Stare out window',\n  '6pm': 'Demand dinner',\n  '9pm': 'Nap',\n  '3am': 'ZOOMIES'\n};",
+          "href": null
+        }
+      ],
+      "language": "javascript"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8006-bb0f-cc660be25281",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Cats sleep an average of 15 hours per day. Senior cats may sleep up to 20 hours daily!",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Cats sleep an average of 15 hours per day. Senior cats may sleep up to 20 hours daily!",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "💤"
+      },
+      "color": "purple_background"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8049-a716-de47ff007d20",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Cat Intelligence Studies",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Cat Intelligence Studies",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-80ea-9e18-da882b6546a3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": true,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_1",
+    "heading_1": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Cognitive Abilities",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Cognitive Abilities",
+          "href": null
+        }
+      ],
+      "is_toggleable": true,
+      "color": "default"
+    },
+    "children": [
+      {
+        "object": "block",
+        "id": "2fb1eca8-9dfb-8053-b883-dc2a93efc5e6",
+        "parent": {
+          "type": "block_id",
+          "block_id": "2fb1eca8-9dfb-80ea-9e18-da882b6546a3"
+        },
+        "created_time": "2026-02-02T01:32:00.000Z",
+        "last_edited_time": "2026-02-02T01:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Recent research shows cats are smarter than we previously thought.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Recent research shows cats are smarter than we previously thought.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "2fb1eca8-9dfb-8044-83e1-d5e23ada0927",
+        "parent": {
+          "type": "block_id",
+          "block_id": "2fb1eca8-9dfb-80ea-9e18-da882b6546a3"
+        },
+        "created_time": "2026-02-02T01:32:00.000Z",
+        "last_edited_time": "2026-02-02T01:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+        },
+        "has_children": true,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Problem Solving",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Problem Solving",
+              "href": null
+            }
+          ],
+          "is_toggleable": true,
+          "color": "default"
+        },
+        "children": [
+          {
+            "object": "block",
+            "id": "2fb1eca8-9dfb-80ff-aa55-d2fadfddb894",
+            "parent": {
+              "type": "block_id",
+              "block_id": "2fb1eca8-9dfb-8044-83e1-d5e23ada0927"
+            },
+            "created_time": "2026-02-02T01:32:00.000Z",
+            "last_edited_time": "2026-02-02T01:32:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Cats can solve complex puzzles, especially when food is involved.",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Cats can solve complex puzzles, especially when food is involved.",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          },
+          {
+            "object": "block",
+            "id": "2fb1eca8-9dfb-80f5-861f-ee4aa7608ecb",
+            "parent": {
+              "type": "block_id",
+              "block_id": "2fb1eca8-9dfb-8044-83e1-d5e23ada0927"
+            },
+            "created_time": "2026-02-02T01:32:00.000Z",
+            "last_edited_time": "2026-02-02T01:32:00.000Z",
+            "created_by": {
+              "object": "user",
+              "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+            },
+            "last_edited_by": {
+              "object": "user",
+              "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+            },
+            "has_children": true,
+            "archived": false,
+            "in_trash": false,
+            "type": "heading_3",
+            "heading_3": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Memory Tests",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Memory Tests",
+                  "href": null
+                }
+              ],
+              "is_toggleable": true,
+              "color": "default"
+            },
+            "children": [
+              {
+                "object": "block",
+                "id": "2fb1eca8-9dfb-80d4-a579-c66da5787bb5",
+                "parent": {
+                  "type": "block_id",
+                  "block_id": "2fb1eca8-9dfb-80f5-861f-ee4aa7608ecb"
+                },
+                "created_time": "2026-02-02T01:32:00.000Z",
+                "last_edited_time": "2026-02-02T01:32:00.000Z",
+                "created_by": {
+                  "object": "user",
+                  "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+                },
+                "last_edited_by": {
+                  "object": "user",
+                  "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+                },
+                "has_children": false,
+                "archived": false,
+                "in_trash": false,
+                "type": "paragraph",
+                "paragraph": {
+                  "rich_text": [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "Studies show cats have excellent long-term memory, particularly for traumatic events (like that one time you accidentally stepped on their tail).",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "Studies show cats have excellent long-term memory, particularly for traumatic events (like that one time you accidentally stepped on their tail).",
+                      "href": null
+                    }
+                  ],
+                  "color": "default"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-80ba-8ad3-effcfb79da0b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "divider",
+    "divider": {}
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-80f4-ac42-ed8d6268e5c8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Heading Duplication Test",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Heading Duplication Test",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8073-8929-d076d4cba2d7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Cat Personalities",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Cat Personalities",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8000-91d9-e5a0bf676206",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Every cat is unique, with their own distinct personality traits.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Every cat is unique, with their own distinct personality traits.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-80b0-8c69-cf6e11a38de5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Cat Personalities",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Cat Personalities",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8019-94c0-c8bee6327b3d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Yes, we used the same heading twice! This is to test how the compiler handles duplicate headings.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Yes, we used the same heading twice! This is to test how the compiler handles duplicate headings.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-80c2-b17e-f56633cf65b7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Why Cats Are the Perfect Pet",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Why Cats Are the Perfect Pet",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-80ea-aaae-f37ed05566ac",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "See? We used this heading before too. Cats are so perfect they deserve repeated emphasis.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "See? We used this heading before too. Cats are so perfect they deserve repeated emphasis.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-80ea-82d2-f547238450ef",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "divider",
+    "divider": {}
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-809f-912b-c7960a66a92b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Code Examples for Cat Lovers",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Code Examples for Cat Lovers",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-80e6-89a6-f573285e274b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Here's some more code, because why not:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Here's some more code, because why not:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-80ba-bd0f-cd9f4ca8a16c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "code",
+    "code": {
+      "caption": [],
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "struct Cat {\n    name: String,\n    age: u8,\n    cuteness: f64,\n}\n\nimpl Cat {\n    fn meow(&self) {\n        println!(\"{} says: Meow!\", self.name);\n    }\n}",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "struct Cat {\n    name: String,\n    age: u8,\n    cuteness: f64,\n}\n\nimpl Cat {\n    fn meow(&self) {\n        println!(\"{} says: Meow!\", self.name);\n    }\n}",
+          "href": null
+        }
+      ],
+      "language": "rust"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-807a-b574-e9ed3b1f81d1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Developer Note:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Developer Note:",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " The above code compiles perfectly. Unlike my relationship with my cat.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " The above code compiles perfectly. Unlike my relationship with my cat.",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "💻"
+      },
+      "color": "green_background"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8027-83ae-e19b68bf271e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "divider",
+    "divider": {}
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-80d5-aa09-df9e1e4a186b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Final Thoughts",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Final Thoughts",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8077-8ba4-e5bb1413b590",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The Cat-Human Bond",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The Cat-Human Bond",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8062-a487-fc914b86b90c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "to_do",
+    "to_do": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Learn to speak cat",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Learn to speak cat",
+          "href": null
+        }
+      ],
+      "checked": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-80e9-b2fb-f0febe4cb86a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "to_do",
+    "to_do": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Accept that cats own you, not the other way around",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Accept that cats own you, not the other way around",
+          "href": null
+        }
+      ],
+      "checked": true,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-80ef-adae-c0d3875c0960",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "to_do",
+    "to_do": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Master the art of the perfect head scratch",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Master the art of the perfect head scratch",
+          "href": null
+        }
+      ],
+      "checked": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8002-b4e3-e1293d3023c4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "to_do",
+    "to_do": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Realize you'll never truly understand cats",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Realize you'll never truly understand cats",
+          "href": null
+        }
+      ],
+      "checked": true,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8027-ad3c-e7bcd0f6e6c2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "quote",
+    "quote": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "In ancient times cats were worshipped as gods;\nthey have not forgotten this.\n\n",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "In ancient times cats were worshipped as gods;\nthey have not forgotten this.\n\n",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "— Terry Pratchett",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "— Terry Pratchett",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-801e-9ffe-d31ec0931c1b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Despite their aloof nature, cats form deep bonds with their humans. Your cat may not always show it, but they love you in their own mysterious way.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Despite their aloof nature, cats form deep bonds with their humans. Your cat may not always show it, but they love you in their own mysterious way.",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "❤️"
+      },
+      "color": "red_background"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8061-af93-d0ae540d1006",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "divider",
+    "divider": {}
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-8035-82be-e5038a89ee35",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Remember:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Remember:",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " Every cat is different, and what works for one might not work for another. The key to a happy cat-human relationship is patience, understanding, and lots of treats.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " Every cat is different, and what works for one might not work for another. The key to a happy cat-human relationship is patience, understanding, and lots of treats.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2fb1eca8-9dfb-807a-a467-da2a4ce9183d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2fb1eca8-9dfb-8035-ba38-dd6fa42fbe63"
+    },
+    "created_time": "2026-02-02T01:32:00.000Z",
+    "last_edited_time": "2026-02-02T01:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "2f5d872b-594c-812f-b410-0002a61c1a52"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Thanks for reading this completely fabricated blog post about cats!",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Thanks for reading this completely fabricated blog post about cats!",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  }
+]
