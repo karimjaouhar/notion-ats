@@ -12,17 +12,12 @@ import "prismjs/components/prism-typescript";
 import "prismjs/components/prism-tsx";
 import "prismjs/components/prism-rust";
 import "prismjs/components/prism-python";
+import { isAllowedImageHost } from "./images";
 
 const externalLinkDefaults = {
   rel: "noreferrer noopener",
   target: "_blank"
 };
-
-const allowedImageHosts = new Set([
-  "files.notion.so",
-  "secure.notion-static.com",
-  "s3.us-west-2.amazonaws.com"
-]);
 
 const isInternalHref = (href: string): boolean => {
   if (href.startsWith("/") || href.startsWith("#")) return true;
@@ -34,15 +29,6 @@ const isInternalHref = (href: string): boolean => {
     const input = new URL(href);
     const base = new URL(siteUrl);
     return input.origin === base.origin;
-  } catch {
-    return false;
-  }
-};
-
-const isAllowedImageHost = (src: string): boolean => {
-  try {
-    const url = new URL(src);
-    return allowedImageHosts.has(url.hostname);
   } catch {
     return false;
   }

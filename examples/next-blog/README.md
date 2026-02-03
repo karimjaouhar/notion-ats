@@ -9,7 +9,6 @@ Create a `.env.local` file in `examples/next-blog` with:
 
 ```
 NOTION_TOKEN=secret_xxx
-NOTION_PAGE_ID=your-notion-page-id
 NOTION_DATABASE_ID=your-database-id
 # Optional: used to detect same-origin links for Next <Link />
 NEXT_PUBLIC_SITE_URL=http://localhost:3000
@@ -25,23 +24,19 @@ From repo root:
 pnpm --filter next-blog dev
 ```
 
-Open:
-
-```
-http://localhost:3000/posts/<SLUG-or-PAGE_ID>
-```
-
 Posts index (database-driven):
 
 ```
 http://localhost:3000/posts
 ```
 
+This example focuses on the database-driven index only (no single post route).
+
 The posts index expects a Notion database with properties:
 `Title`, `Date`, `Summary`, `Author`, `Slug`, `Cover`.
 See `packages/compiler/docs/notion-db-mapping.md` for details.
 
-Single post view reads optional properties from the page:
+Post cards can use optional properties:
 `Author Image` (files or url) and `Read Time` (number, minutes).
 
 ## On-demand revalidation (webhook style)

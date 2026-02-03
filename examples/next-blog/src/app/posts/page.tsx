@@ -1,6 +1,7 @@
-import Link from "next/link";
+import Image from "next/image";
 import { compileNotionDatabaseIndex } from "@notion-ats/compiler";
 import { fetchDatabasePages } from "../../lib/notion";
+import { isAllowedImageHost } from "../../lib/images";
 
 export const revalidate = 3600;
 
@@ -32,26 +33,25 @@ export default async function PostsIndexPage() {
     <main>
       <h1>Blog</h1>
       <div className="post-grid">
-        {posts.map((post) => {
-          const href = post.slug ? `/posts/${post.slug}` : `/posts/${post.id}`;
-          return (
+        {posts.map((post) => (
             <article key={post.id} className="post-card">
               {post.coverUrl ? (
                 <div className="post-cover">
-                  <img src={post.coverUrl} alt="" />
+                  {isAllowedImageHost(post.coverUrl) ? (
+                    <Image src={post.coverUrl} alt="" width={480} height={320} />
+                  ) : (
+                    <img src={post.coverUrl} alt="" />
+                  )}
                 </div>
               ) : null}
-              <h2>
-                <Link href={href}>{post.title}</Link>
-              </h2>
+              <h2>{post.title}</h2>
               <div className="post-meta">
                 {post.date ? <time dateTime={post.date}>{post.date}</time> : null}
                 {post.author ? <span>{post.author}</span> : null}
               </div>
               {post.summary ? <p>{post.summary}</p> : null}
             </article>
-          );
-        })}
+        ))}
       </div>
     </main>
   );
